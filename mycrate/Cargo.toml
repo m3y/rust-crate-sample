@@ -1,0 +1,6 @@
+[package]
+name = "mycrate"
+version = "0.1.0"
+authors = ["m3y <ma3ya.ozw+github@gmail.com>"]
+
+[dependencies]
